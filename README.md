@@ -1,14 +1,14 @@
 # Object Oriented Programming
 
-### A computer programming paradigm known as object-oriented programming (OOP) arranges the architecture of software around data or objects rather than functions and logic.
+**A computer programming paradigm known as object-oriented programming (OOP) arranges the architecture of software around data or objects rather than functions and logic.**
 
-#### The principles of Object Oriented Programming are:
--  Objects
--  Classes
--  Inheritance
--  Abstraction 
--  Encapsulation
--  Polymorphism
+The principles of Object Oriented Programming are:
+-  **Objects**
+-  **Classes**
+-  **Inheritance**
+-  **Abstraction** 
+-  **Encapsulation**
+-  **Polymorphism**
 
 ![This is an image](./Images/object.png)
 
